@@ -73,12 +73,6 @@ A stacked LSTM model with:
 
 ---
 
-## 📈 Plot
-
-![Actual vs Predicted Prices](#)  
-> *Replace with image if hosted or use Jupyter to visualize the plot.*
-
----
 
 ## 📂 Folder Structure
 
